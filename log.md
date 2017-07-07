@@ -13,12 +13,11 @@
 -https://www.youtube.com/watch?v=viEmljLt-Fo&index=5&list=PL7B7FA4E693D8E790
 -https://www.youtube.com/watch?v=4r2r9HNCm0o&index=6&list=PL7B7FA4E693D8E790
 
-### Day 1: June 27, Monday
+### Day 1: 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
