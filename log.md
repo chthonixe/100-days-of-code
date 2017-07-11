@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 2: 
+## Day 2: July 10, 2017
 
 **Today's Progress**: Made it to the Bootstrap portion of freeCodeCamp's exercises. Also, started working on my interactive Mayan Abacus app.
 
