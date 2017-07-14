@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 5: July 13, 2017
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 4: July 12, 2017
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 3: July 11, 2017
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
 ## Day 2: July 10, 2017
 
 **Today's Progress**: Made it to the Bootstrap portion of freeCodeCamp's exercises. Also, started working on my interactive Mayan Abacus app.
