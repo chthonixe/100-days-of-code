@@ -1,28 +1,37 @@
 # 100 Days Of Code - Log
 
-### Day 5: July 13, 2017
+### Day 6: July 14, 2017
 
 **Today's Progress**: 
 
 **Thoughts** 
+
+**Link(s) to work**
+
+### Day 5: July 13, 2017
+
+**Today's Progress**: I worked on The Mayan Abacus and tried troubleshooting why I wasn't seeing the layout appear correctly. Realized I needed to set up a basic working environment, so used Mozilla Firefox's tutorial to edit the Apache file installed on my Mac OSX. Also added color to my buttons pulling those found in my banner using the Digital Color Meter.
+
+**Thoughts** It is really great to be applying what I've learned to this project. Previously, I had projects in mind but they were much too large in scope to accomplish being a newbie. I conceptualized this project to take advantage of my current  level knowledge and to incrementally incorporate techniques as I learned them. I still feel as though I have an incredible way to go, but realize I am only on day 5 of this challenge. Being frustrated when I 'didn't make quite as much progress as I would have hoped' I found is a common feeling among programmers, and I am grateful to be a part of a community that is so supportive. I've realized that we are truly social creatures, and that finding your people can benefit all!
 
 **Link(s) to work**
 
 ### Day 4: July 12, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Started working on Jquery exercises on freeCodeCamp. Learned how to add script to a page to interact with various attributes and CSS elements on a page, and begain learning how to interact with other parts of the DOM using this powerful scripting language. 
 
-**Thoughts** 
+**Thoughts** I truly believe this method of learning is benefiting me. I had previously tried learning Javascript and JQuery in book format and while helpful, it didn't pull all the concepts together for me. Seeing the code actively responding to your modifications is not only encouraging, but being a visual learner I find it steadily building confidence in the fact that this is a career that with dedication and perseverance I can actually do. 
 
 **Link(s) to work**
 
 ### Day 3: July 11, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Worked through much more of freeCodeCamp's exercises and finished the Bootstrap section! 
 
-**Thoughts** 
+**Thoughts** Though Bootstrap is only one of many frameworks, I feel it pairs nicely with the text I am reading for Building Android apps with HTML, CSS, and Javascript. It gives a much more elegant framework and has taught me it can be beneficial learning new techniques even if they weren't originally on my schedule. I hope this is just one of many that I have the opportunity to learn!
 
 **Link(s) to work**
+-https://www.freecodecamp.org/challenges/label-bootstrap-buttons
 
 ## Day 2: July 10, 2017
 
@@ -59,7 +68,7 @@
 -https://www.youtube.com/watch?v=viEmljLt-Fo&index=5&list=PL7B7FA4E693D8E790
 -https://www.youtube.com/watch?v=4r2r9HNCm0o&index=6&list=PL7B7FA4E693D8E790
 
-### Day 1: 
+### Day : 
 
 **Today's Progress**: 
 
